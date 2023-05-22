@@ -19,3 +19,4 @@ COPY train-auto-nn.py ./train-auto-nn.py
 #RUN python3 train-nn.py
 
 #mforgkrngorgjrog
+#####
